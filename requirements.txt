@@ -1,0 +1,9 @@
+torch
+torchaudio
+g2pk
+jiwer
+argparse
+hgtk
+
+
+# pip install -r requirements.txt
